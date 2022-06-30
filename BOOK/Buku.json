@@ -1,0 +1,31 @@
+[{
+  "_id": 1001,
+  "namabuku": "Basis Data",
+  "halaman": 200,
+  "penulis": {
+    "_id": 2001,
+    "nama": "Agus",
+    "alamat": "Denpasr"
+  }
+},{
+  "_id": 1002,
+  "namabuku": "Basis Data Lanjutan",
+  "halaman": 200,
+  "penulis": {
+    "_id": 2001,
+    "nama": "Agus",
+    "alamat": "Denpasar"
+  }
+},{
+  "_id": 1005,
+  "namabuku": "Data Terdistribusi",
+  "halaman": 100
+},{
+  "_id": 1003,
+  "namabuku": "Data Mysql",
+  "halaman": 150
+},{
+  "_id": 1004,
+  "namabuku": "Data Nosql",
+  "halaman": 210
+}]

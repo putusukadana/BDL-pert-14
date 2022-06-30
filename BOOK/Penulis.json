@@ -1,0 +1,9 @@
+[{
+  "_id": 2003,
+  "nama": "Citra",
+  "alamat": "Denpasar",
+  "buku": [
+    1003,
+    1004
+  ]
+}]
